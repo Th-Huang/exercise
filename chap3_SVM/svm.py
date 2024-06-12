@@ -34,6 +34,7 @@ class SVM():
 
     def __init__(self):
         # 请补全此处代码
+
         pass
 
     def train(self, data_train):
